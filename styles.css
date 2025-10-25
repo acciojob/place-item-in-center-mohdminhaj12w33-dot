@@ -1,8 +1,9 @@
 .holder{
-	width:100%;
-	height:100%;
 	display:flex;
 	justify-content:center;
+	align-items: center;        /* Center vertically */
+    width: 100vw;               /* Full viewport width */
+    height: 100vh;       
 }
 .item{
 	background-color:red;
